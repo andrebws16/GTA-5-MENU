@@ -4,15 +4,25 @@ Best mod menu on GTA 5 with anti-ban.
 
 # ⚙️Functions:
 —Toggle On/Off
+
 —Impact: Small Explosion
+
 —Impact: Medium Explosion
+
 —Impact: Big Explosion
+
 —Impact: Flares
+
 —Impact: Steam
+
 —Impact: Water Hydrant
+
 —Impact: Smoke Cloud
+
 —Impact: Gas Leak
+
 —Impact: Money Bags
+
 —Impact: Money Stacks
 
 # 📥Download
